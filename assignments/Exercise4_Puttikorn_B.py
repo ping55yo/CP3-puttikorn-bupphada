@@ -1,1 +1,10 @@
 
+English = (input(" your score (Foundation English):"))
+Business = (input(" your score (General Business):"))
+Systems = (input(" your score (Introduction to Computer Systems):"))
+Programming  = (input('your score (Computer Programming):'))
+print("--- Your Score ---")
+print("Foundation English : ",English)
+print("General Business : ",Business)
+print("Introduction to Computer Systems : ",Systems)
+print("Computer Programming : ",Programming)
